@@ -1,0 +1,14 @@
+#btn{
+    width:25vw;
+    border-radius: 50%;
+    background-color: black;
+    color :white;
+    height: 25vh
+}
+.bloc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 95vw;
+    height: 100vh;
+}
